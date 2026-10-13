@@ -1,0 +1,8 @@
+.app-navbar { background: linear-gradient(90deg, #7f1d1d, #b45309); }
+body { background: #faf7f2; }
+.card { border: 0; box-shadow: 0 2px 8px rgba(0, 0, 0, .06); }
+.stat-card .display-6 { font-weight: 700; }
+.table-tile { border-left: 6px solid #6c757d; }
+.table-tile.available { border-left-color: #198754; }
+.table-tile.occupied { border-left-color: #dc3545; }
+.table-tile.reserved { border-left-color: #ffc107; }
